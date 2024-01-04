@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Letícia
+-Profissão: QA
+-Cidade: Ribeirão Pires
+-O que faz nas horas vaga: Leio, assisto filmes, jogo, brinco com meus cachorros
+-Feedback sobre o curso Qualidade de Software: Curso muito completo
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma facil e prática
+
+Obrigado!!!
+
+
